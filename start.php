@@ -6,6 +6,9 @@
  * Time: 12:00 PM
  */
 require 'config.php';
+
 require 'vendor/autoload.php';
 use Models\Database;
 new Database();
+
+
